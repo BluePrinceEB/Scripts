@@ -332,7 +332,7 @@ end
 
 function Vector:AngleBetween(v1, v2)
     	local p1, p2 = (-self + v1), (-self + v2)
-    	local theta = p1:polar() - p2:polar()
+    	local theta = p1:Polar() - p2:Polar()
 
     	if theta < 0 then 
     		theta = theta + 360 

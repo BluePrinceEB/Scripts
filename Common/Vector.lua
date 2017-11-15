@@ -302,7 +302,7 @@ end
 
 function Vector:Rotated(phiX, phiY, phiZ)
     	local v = self:Clone()
-    	v:rotate(phiX, phiY, phiZ)
+    	v:Rotate(phiX, phiY, phiZ)
     	return v
 end
 

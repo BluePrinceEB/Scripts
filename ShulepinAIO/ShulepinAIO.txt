@@ -1,0 +1,13 @@
+{
+        ["Ashe"]                = true,
+        ["Corki"]               = true,
+        ["Darius"]              = true,
+        ["Jhin"]                = true,
+        ["Lucian"]              = true,
+        ["MissFortune"]         = true,
+        ["TwistedFate"]         = true,
+        ["Twitch"]              = true,
+        ["Diana"]               = true,
+        ["Rengar"]              = true,
+        ["Karthus"]             = true,
+}
